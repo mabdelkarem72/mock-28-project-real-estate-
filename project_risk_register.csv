@@ -1,0 +1,211 @@
+Risk_ID,Project_ID,Project_Name,Risk_Category,Severity,Probability,Potential_Impact_AED,Status,Owner,Date_Raised
+RSK-0001,PRJ-1001,Al Raha Beach Villas Phase 1,Material Delay,High,Low,100000,Monitoring,Hessa Al Qubaisi,2026-08-17
+RSK-0002,PRJ-1001,Al Raha Beach Villas Phase 1,Design Change,High,High,5000000,Open,Aisha Al Shamsi,2025-12-05
+RSK-0003,PRJ-1001,Al Raha Beach Villas Phase 1,Contractor Performance,Critical,Medium,1000000,Mitigating,Aisha Al Shamsi,2026-07-12
+RSK-0004,PRJ-1002,Khalifa City Residential Extension,Labor Shortage,Critical,Medium,250000,Mitigating,Fatima Al Nuaimi,2026-06-06
+RSK-0005,PRJ-1002,Khalifa City Residential Extension,Subcontractor Default,High,Medium,500000,Mitigating,Rashid Al Dhaheri,2025-11-19
+RSK-0006,PRJ-1003,Al Maryah Island Villas Phase 2,Material Delay,Low,Medium,250000,Mitigating,Noura Al Ketbi,2026-06-29
+RSK-0007,PRJ-1003,Al Maryah Island Villas Phase 2,Design Change,Critical,High,2500000,Monitoring,Aisha Al Shamsi,2026-01-28
+RSK-0008,PRJ-1003,Al Maryah Island Villas Phase 2,Client Decision Delay,Low,Low,250000,Monitoring,Aisha Al Shamsi,2026-01-13
+RSK-0009,PRJ-1003,Al Maryah Island Villas Phase 2,Permitting & Approvals,Low,Low,1000000,Open,Khalid Al Hosani,2026-01-15
+RSK-0010,PRJ-1003,Al Maryah Island Villas Phase 2,Design Change,Critical,Low,2500000,Monitoring,Mariam Al Falasi,2026-06-07
+RSK-0011,PRJ-1003,Al Maryah Island Villas Phase 2,Design Change,High,High,1000000,Mitigating,Fatima Al Nuaimi,2026-05-04
+RSK-0012,PRJ-1003,Al Maryah Island Villas Phase 2,Material Delay,Low,Medium,2500000,Open,Aisha Al Shamsi,2026-03-31
+RSK-0013,PRJ-1003,Al Maryah Island Villas Phase 2,Utility Clashes,High,Medium,500000,Open,Aisha Al Shamsi,2025-11-18
+RSK-0014,PRJ-1004,Khalifa City Commercial Redevelopment,Weather/Site Conditions,Medium,Medium,1000000,Monitoring,Omar Al Suwaidi,2026-07-23
+RSK-0015,PRJ-1004,Khalifa City Commercial Redevelopment,Scope Change,High,Medium,5000000,Monitoring,Khalid Al Hosani,2026-08-26
+RSK-0016,PRJ-1004,Khalifa City Commercial Redevelopment,Permitting & Approvals,High,High,5000000,Monitoring,Hessa Al Qubaisi,2025-12-20
+RSK-0017,PRJ-1004,Khalifa City Commercial Redevelopment,Client Decision Delay,Medium,Medium,500000,Mitigating,Noura Al Ketbi,2025-11-18
+RSK-0018,PRJ-1004,Khalifa City Commercial Redevelopment,Scope Change,Critical,Medium,5000000,Open,Mariam Al Falasi,2025-11-08
+RSK-0019,PRJ-1004,Khalifa City Commercial Redevelopment,Labor Shortage,Critical,Low,50000,Mitigating,Aisha Al Shamsi,2026-02-13
+RSK-0020,PRJ-1004,Khalifa City Commercial Redevelopment,Safety Incident,Critical,High,100000,Mitigating,Ahmed Al Mazrouei,2026-06-24
+RSK-0021,PRJ-1004,Khalifa City Commercial Redevelopment,Utility Clashes,High,Low,50000,Monitoring,Aisha Al Shamsi,2026-08-20
+RSK-0022,PRJ-1004,Khalifa City Commercial Redevelopment,Safety Incident,Medium,Medium,100000,Open,Aisha Al Shamsi,2026-04-14
+RSK-0023,PRJ-1004,Khalifa City Commercial Redevelopment,Subcontractor Default,High,High,500000,Monitoring,Fatima Al Nuaimi,2026-03-12
+RSK-0024,PRJ-1004,Khalifa City Commercial Redevelopment,Safety Incident,Critical,Medium,2500000,Mitigating,Saeed Al Mansoori,2026-08-09
+RSK-0025,PRJ-1004,Khalifa City Commercial Redevelopment,Safety Incident,Low,Low,2500000,Mitigating,Mariam Al Falasi,2026-07-12
+RSK-0026,PRJ-1004,Khalifa City Commercial Redevelopment,Safety Incident,Critical,Low,2500000,Open,Aisha Al Shamsi,2026-06-03
+RSK-0027,PRJ-1005,Khalifa City Commercial District 5,Design Change,High,Low,250000,Open,Khalid Al Hosani,2026-02-25
+RSK-0028,PRJ-1005,Khalifa City Commercial District 5,Contractor Performance,High,Medium,100000,Monitoring,Rashid Al Dhaheri,2025-11-11
+RSK-0029,PRJ-1005,Khalifa City Commercial District 5,Contractor Performance,Medium,Low,50000,Monitoring,Rashid Al Dhaheri,2026-04-26
+RSK-0030,PRJ-1005,Khalifa City Commercial District 5,Contractor Performance,Critical,High,100000,Mitigating,Khalid Al Hosani,2026-01-04
+RSK-0031,PRJ-1005,Khalifa City Commercial District 5,Design Change,High,High,5000000,Mitigating,Khalid Al Hosani,2025-11-21
+RSK-0032,PRJ-1005,Khalifa City Commercial District 5,Utility Clashes,Medium,Low,250000,Monitoring,Khalid Al Hosani,2026-01-22
+RSK-0033,PRJ-1005,Khalifa City Commercial District 5,Permitting & Approvals,High,Medium,100000,Mitigating,Aisha Al Shamsi,2026-07-04
+RSK-0034,PRJ-1005,Khalifa City Commercial District 5,Cost Escalation,Medium,Medium,250000,Monitoring,Khalid Al Hosani,2026-03-29
+RSK-0035,PRJ-1006,Yas Island Residential Tower B,Labor Shortage,Low,High,250000,Open,Hessa Al Qubaisi,2026-08-02
+RSK-0036,PRJ-1006,Yas Island Residential Tower B,Weather/Site Conditions,Critical,Medium,1000000,Mitigating,Mariam Al Falasi,2026-05-22
+RSK-0037,PRJ-1006,Yas Island Residential Tower B,Subcontractor Default,High,High,5000000,Monitoring,Omar Al Suwaidi,2026-07-09
+RSK-0038,PRJ-1006,Yas Island Residential Tower B,Utility Clashes,Low,Medium,50000,Monitoring,Noura Al Ketbi,2026-06-21
+RSK-0039,PRJ-1006,Yas Island Residential Tower B,Scope Change,Low,Medium,2500000,Mitigating,Omar Al Suwaidi,2026-05-17
+RSK-0040,PRJ-1006,Yas Island Residential Tower B,Scope Change,Medium,High,1000000,Monitoring,Khalid Al Hosani,2026-06-04
+RSK-0041,PRJ-1006,Yas Island Residential Tower B,Permitting & Approvals,High,Medium,2500000,Mitigating,Fatima Al Nuaimi,2025-12-31
+RSK-0042,PRJ-1006,Yas Island Residential Tower B,Weather/Site Conditions,Low,Low,5000000,Monitoring,Rashid Al Dhaheri,2025-11-15
+RSK-0043,PRJ-1006,Yas Island Residential Tower B,Labor Shortage,High,Low,50000,Mitigating,Saeed Al Mansoori,2026-06-25
+RSK-0044,PRJ-1006,Yas Island Residential Tower B,Safety Incident,Critical,Medium,2500000,Monitoring,Khalid Al Hosani,2026-02-13
+RSK-0045,PRJ-1006,Yas Island Residential Tower B,Safety Incident,High,Low,100000,Mitigating,Ahmed Al Mazrouei,2025-11-13
+RSK-0046,PRJ-1006,Yas Island Residential Tower B,Weather/Site Conditions,High,High,2500000,Open,Aisha Al Shamsi,2026-03-26
+RSK-0047,PRJ-1006,Yas Island Residential Tower B,Contractor Performance,Critical,Low,50000,Open,Khalid Al Hosani,2025-12-18
+RSK-0048,PRJ-1006,Yas Island Residential Tower B,Weather/Site Conditions,Low,Low,1000000,Open,Rashid Al Dhaheri,2026-01-07
+RSK-0049,PRJ-1007,Khalifa City Infrastructure Tower A,Subcontractor Default,High,High,2500000,Monitoring,Rashid Al Dhaheri,2026-06-09
+RSK-0050,PRJ-1007,Khalifa City Infrastructure Tower A,Material Delay,Critical,High,5000000,Mitigating,Hessa Al Qubaisi,2026-01-31
+RSK-0051,PRJ-1007,Khalifa City Infrastructure Tower A,Subcontractor Default,High,Low,250000,Open,Aisha Al Shamsi,2026-01-12
+RSK-0052,PRJ-1007,Khalifa City Infrastructure Tower A,Material Delay,Medium,Medium,2500000,Mitigating,Saeed Al Mansoori,2026-02-25
+RSK-0053,PRJ-1007,Khalifa City Infrastructure Tower A,Permitting & Approvals,Low,Medium,100000,Open,Aisha Al Shamsi,2026-07-12
+RSK-0054,PRJ-1007,Khalifa City Infrastructure Tower A,Safety Incident,Medium,High,1000000,Open,Ahmed Al Mazrouei,2026-03-10
+RSK-0055,PRJ-1007,Khalifa City Infrastructure Tower A,Cost Escalation,Medium,Low,100000,Open,Saeed Al Mansoori,2026-05-13
+RSK-0056,PRJ-1007,Khalifa City Infrastructure Tower A,Scope Change,Medium,Low,5000000,Open,Hessa Al Qubaisi,2026-08-26
+RSK-0057,PRJ-1007,Khalifa City Infrastructure Tower A,Contractor Performance,High,Low,1000000,Mitigating,Omar Al Suwaidi,2026-07-02
+RSK-0058,PRJ-1007,Khalifa City Infrastructure Tower A,Design Change,Low,Low,250000,Open,Hessa Al Qubaisi,2026-03-15
+RSK-0059,PRJ-1007,Khalifa City Infrastructure Tower A,Permitting & Approvals,Low,Low,50000,Open,Rashid Al Dhaheri,2025-12-01
+RSK-0060,PRJ-1007,Khalifa City Infrastructure Tower A,Material Delay,Low,High,500000,Mitigating,Noura Al Ketbi,2025-12-08
+RSK-0061,PRJ-1008,Al Maryah Island Mixed-Use Tower A,Client Decision Delay,Low,Medium,100000,Monitoring,Ahmed Al Mazrouei,2025-12-04
+RSK-0062,PRJ-1009,Al Raha Beach Commercial Phase 2,Safety Incident,High,Medium,50000,Open,Aisha Al Shamsi,2026-02-03
+RSK-0063,PRJ-1009,Al Raha Beach Commercial Phase 2,Material Delay,Critical,High,500000,Monitoring,Aisha Al Shamsi,2026-07-21
+RSK-0064,PRJ-1009,Al Raha Beach Commercial Phase 2,Cost Escalation,Low,Medium,100000,Open,Omar Al Suwaidi,2026-04-09
+RSK-0065,PRJ-1009,Al Raha Beach Commercial Phase 2,Cost Escalation,High,Medium,1000000,Mitigating,Aisha Al Shamsi,2025-12-12
+RSK-0066,PRJ-1009,Al Raha Beach Commercial Phase 2,Subcontractor Default,Critical,Low,50000,Monitoring,Saeed Al Mansoori,2026-05-09
+RSK-0067,PRJ-1009,Al Raha Beach Commercial Phase 2,Weather/Site Conditions,Critical,Medium,500000,Mitigating,Aisha Al Shamsi,2026-02-04
+RSK-0068,PRJ-1009,Al Raha Beach Commercial Phase 2,Material Delay,Critical,High,250000,Mitigating,Noura Al Ketbi,2026-04-19
+RSK-0069,PRJ-1009,Al Raha Beach Commercial Phase 2,Safety Incident,High,Low,500000,Open,Fatima Al Nuaimi,2026-07-15
+RSK-0070,PRJ-1009,Al Raha Beach Commercial Phase 2,Material Delay,Low,Medium,2500000,Monitoring,Noura Al Ketbi,2026-06-22
+RSK-0071,PRJ-1009,Al Raha Beach Commercial Phase 2,Client Decision Delay,Low,High,1000000,Mitigating,Fatima Al Nuaimi,2026-01-29
+RSK-0072,PRJ-1009,Al Raha Beach Commercial Phase 2,Labor Shortage,High,High,5000000,Monitoring,Ahmed Al Mazrouei,2026-04-02
+RSK-0073,PRJ-1009,Al Raha Beach Commercial Phase 2,Material Delay,High,Medium,1000000,Monitoring,Mariam Al Falasi,2026-06-09
+RSK-0074,PRJ-1009,Al Raha Beach Commercial Phase 2,Material Delay,Critical,Low,250000,Monitoring,Noura Al Ketbi,2026-06-30
+RSK-0075,PRJ-1010,Masdar City Retail Tower A,Weather/Site Conditions,High,High,5000000,Mitigating,Saeed Al Mansoori,2025-11-15
+RSK-0076,PRJ-1010,Masdar City Retail Tower A,Safety Incident,Low,High,5000000,Monitoring,Khalid Al Hosani,2026-08-13
+RSK-0077,PRJ-1010,Masdar City Retail Tower A,Subcontractor Default,Medium,Medium,5000000,Mitigating,Noura Al Ketbi,2026-03-01
+RSK-0078,PRJ-1011,Saadiyat Island Villas Community Hub,Contractor Performance,Low,Low,1000000,Monitoring,Rashid Al Dhaheri,2026-07-23
+RSK-0079,PRJ-1011,Saadiyat Island Villas Community Hub,Safety Incident,Medium,High,50000,Open,Saeed Al Mansoori,2026-05-09
+RSK-0080,PRJ-1011,Saadiyat Island Villas Community Hub,Utility Clashes,Critical,Medium,250000,Open,Noura Al Ketbi,2026-03-21
+RSK-0081,PRJ-1011,Saadiyat Island Villas Community Hub,Cost Escalation,High,High,50000,Open,Omar Al Suwaidi,2026-06-08
+RSK-0082,PRJ-1011,Saadiyat Island Villas Community Hub,Material Delay,Low,High,250000,Mitigating,Rashid Al Dhaheri,2025-12-22
+RSK-0083,PRJ-1011,Saadiyat Island Villas Community Hub,Permitting & Approvals,Critical,Medium,100000,Monitoring,Fatima Al Nuaimi,2026-03-04
+RSK-0084,PRJ-1011,Saadiyat Island Villas Community Hub,Permitting & Approvals,Critical,Low,2500000,Monitoring,Hessa Al Qubaisi,2025-12-21
+RSK-0085,PRJ-1011,Saadiyat Island Villas Community Hub,Weather/Site Conditions,High,Low,500000,Monitoring,Ahmed Al Mazrouei,2026-08-24
+RSK-0086,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Weather/Site Conditions,Medium,Medium,5000000,Open,Khalid Al Hosani,2026-04-01
+RSK-0087,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Design Change,High,Low,500000,Monitoring,Rashid Al Dhaheri,2026-05-30
+RSK-0088,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Client Decision Delay,Medium,Medium,2500000,Open,Saeed Al Mansoori,2025-11-14
+RSK-0089,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Labor Shortage,High,Low,5000000,Monitoring,Ahmed Al Mazrouei,2026-01-16
+RSK-0090,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Material Delay,Low,Medium,5000000,Mitigating,Hessa Al Qubaisi,2026-01-20
+RSK-0091,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Safety Incident,Critical,High,500000,Mitigating,Fatima Al Nuaimi,2026-02-01
+RSK-0092,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Contractor Performance,Low,Medium,5000000,Monitoring,Aisha Al Shamsi,2026-02-23
+RSK-0093,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Material Delay,Low,Medium,100000,Mitigating,Hessa Al Qubaisi,2026-02-03
+RSK-0094,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Permitting & Approvals,Low,Medium,2500000,Mitigating,Mariam Al Falasi,2026-03-10
+RSK-0095,PRJ-1012,Mohammed Bin Zayed City Hospitality District 5,Client Decision Delay,Medium,Low,2500000,Open,Saeed Al Mansoori,2025-12-09
+RSK-0096,PRJ-1013,Masdar City Villas Phase 1,Scope Change,Medium,Medium,2500000,Monitoring,Omar Al Suwaidi,2026-04-29
+RSK-0097,PRJ-1013,Masdar City Villas Phase 1,Permitting & Approvals,Low,Low,100000,Open,Hessa Al Qubaisi,2026-06-10
+RSK-0098,PRJ-1013,Masdar City Villas Phase 1,Safety Incident,Low,Low,500000,Mitigating,Hessa Al Qubaisi,2026-01-10
+RSK-0099,PRJ-1013,Masdar City Villas Phase 1,Scope Change,High,High,100000,Mitigating,Fatima Al Nuaimi,2025-12-30
+RSK-0100,PRJ-1013,Masdar City Villas Phase 1,Permitting & Approvals,Critical,High,5000000,Mitigating,Hessa Al Qubaisi,2026-07-30
+RSK-0101,PRJ-1013,Masdar City Villas Phase 1,Material Delay,High,High,250000,Mitigating,Aisha Al Shamsi,2026-08-08
+RSK-0102,PRJ-1013,Masdar City Villas Phase 1,Permitting & Approvals,Low,Medium,50000,Monitoring,Fatima Al Nuaimi,2025-12-11
+RSK-0103,PRJ-1014,Al Maryah Island Villas Phase 2,Cost Escalation,Critical,Medium,1000000,Monitoring,Ahmed Al Mazrouei,2026-01-09
+RSK-0104,PRJ-1014,Al Maryah Island Villas Phase 2,Cost Escalation,Medium,Medium,500000,Monitoring,Omar Al Suwaidi,2026-07-27
+RSK-0105,PRJ-1014,Al Maryah Island Villas Phase 2,Scope Change,Critical,Low,2500000,Open,Saeed Al Mansoori,2026-05-31
+RSK-0106,PRJ-1014,Al Maryah Island Villas Phase 2,Subcontractor Default,Low,Low,500000,Mitigating,Saeed Al Mansoori,2025-12-03
+RSK-0107,PRJ-1014,Al Maryah Island Villas Phase 2,Scope Change,Medium,Medium,250000,Mitigating,Rashid Al Dhaheri,2026-03-07
+RSK-0108,PRJ-1014,Al Maryah Island Villas Phase 2,Safety Incident,Low,High,250000,Open,Noura Al Ketbi,2026-07-10
+RSK-0109,PRJ-1014,Al Maryah Island Villas Phase 2,Permitting & Approvals,Critical,Medium,2500000,Monitoring,Hessa Al Qubaisi,2026-06-12
+RSK-0110,PRJ-1014,Al Maryah Island Villas Phase 2,Cost Escalation,High,Low,2500000,Open,Noura Al Ketbi,2026-03-22
+RSK-0111,PRJ-1014,Al Maryah Island Villas Phase 2,Cost Escalation,Critical,Low,2500000,Open,Khalid Al Hosani,2025-11-14
+RSK-0112,PRJ-1014,Al Maryah Island Villas Phase 2,Scope Change,Critical,High,5000000,Open,Saeed Al Mansoori,2026-07-11
+RSK-0113,PRJ-1014,Al Maryah Island Villas Phase 2,Scope Change,Critical,High,50000,Mitigating,Khalid Al Hosani,2026-05-27
+RSK-0114,PRJ-1014,Al Maryah Island Villas Phase 2,Utility Clashes,Medium,Medium,100000,Open,Omar Al Suwaidi,2026-06-09
+RSK-0115,PRJ-1016,Al Reem Island Villas Tower B,Material Delay,Low,Medium,1000000,Monitoring,Saeed Al Mansoori,2026-08-08
+RSK-0116,PRJ-1016,Al Reem Island Villas Tower B,Contractor Performance,High,High,1000000,Mitigating,Omar Al Suwaidi,2026-06-05
+RSK-0117,PRJ-1016,Al Reem Island Villas Tower B,Cost Escalation,Medium,High,5000000,Open,Aisha Al Shamsi,2026-08-05
+RSK-0118,PRJ-1016,Al Reem Island Villas Tower B,Safety Incident,Critical,Medium,2500000,Open,Aisha Al Shamsi,2026-04-04
+RSK-0119,PRJ-1016,Al Reem Island Villas Tower B,Client Decision Delay,Critical,Low,100000,Mitigating,Aisha Al Shamsi,2026-05-20
+RSK-0120,PRJ-1016,Al Reem Island Villas Tower B,Cost Escalation,High,High,500000,Mitigating,Khalid Al Hosani,2026-02-13
+RSK-0121,PRJ-1016,Al Reem Island Villas Tower B,Weather/Site Conditions,Critical,Low,5000000,Monitoring,Omar Al Suwaidi,2026-04-21
+RSK-0122,PRJ-1016,Al Reem Island Villas Tower B,Utility Clashes,Low,High,5000000,Mitigating,Saeed Al Mansoori,2026-07-06
+RSK-0123,PRJ-1016,Al Reem Island Villas Tower B,Material Delay,Low,Medium,5000000,Open,Khalid Al Hosani,2026-01-09
+RSK-0124,PRJ-1016,Al Reem Island Villas Tower B,Material Delay,Medium,Medium,100000,Mitigating,Noura Al Ketbi,2026-08-14
+RSK-0125,PRJ-1016,Al Reem Island Villas Tower B,Labor Shortage,Critical,Low,1000000,Mitigating,Mariam Al Falasi,2026-02-11
+RSK-0126,PRJ-1016,Al Reem Island Villas Tower B,Weather/Site Conditions,Low,Medium,50000,Mitigating,Fatima Al Nuaimi,2026-03-09
+RSK-0127,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Design Change,Medium,Low,250000,Mitigating,Omar Al Suwaidi,2025-12-30
+RSK-0128,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Design Change,Critical,High,50000,Open,Khalid Al Hosani,2026-05-09
+RSK-0129,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Subcontractor Default,Medium,High,1000000,Monitoring,Rashid Al Dhaheri,2026-07-02
+RSK-0130,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Permitting & Approvals,High,Low,50000,Open,Mariam Al Falasi,2026-01-25
+RSK-0131,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Material Delay,Critical,Low,5000000,Mitigating,Hessa Al Qubaisi,2025-11-26
+RSK-0132,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Client Decision Delay,Low,High,1000000,Open,Omar Al Suwaidi,2026-03-31
+RSK-0133,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Cost Escalation,Critical,Low,250000,Open,Hessa Al Qubaisi,2026-01-26
+RSK-0134,PRJ-1017,Mohammed Bin Zayed City Hospitality Extension,Safety Incident,Medium,High,50000,Monitoring,Noura Al Ketbi,2026-07-24
+RSK-0135,PRJ-1018,Saadiyat Island Residential Extension,Utility Clashes,Low,Medium,50000,Monitoring,Rashid Al Dhaheri,2026-02-17
+RSK-0136,PRJ-1018,Saadiyat Island Residential Extension,Design Change,High,High,250000,Open,Noura Al Ketbi,2026-04-26
+RSK-0137,PRJ-1018,Saadiyat Island Residential Extension,Subcontractor Default,Low,High,5000000,Mitigating,Omar Al Suwaidi,2026-08-05
+RSK-0138,PRJ-1018,Saadiyat Island Residential Extension,Scope Change,High,High,5000000,Monitoring,Omar Al Suwaidi,2026-01-02
+RSK-0139,PRJ-1018,Saadiyat Island Residential Extension,Contractor Performance,Critical,High,5000000,Open,Fatima Al Nuaimi,2026-01-05
+RSK-0140,PRJ-1018,Saadiyat Island Residential Extension,Weather/Site Conditions,Low,Medium,50000,Open,Ahmed Al Mazrouei,2026-03-19
+RSK-0141,PRJ-1018,Saadiyat Island Residential Extension,Labor Shortage,High,High,5000000,Monitoring,Aisha Al Shamsi,2026-04-20
+RSK-0142,PRJ-1018,Saadiyat Island Residential Extension,Weather/Site Conditions,Low,High,250000,Mitigating,Ahmed Al Mazrouei,2026-03-11
+RSK-0143,PRJ-1018,Saadiyat Island Residential Extension,Scope Change,High,Low,500000,Mitigating,Aisha Al Shamsi,2026-02-11
+RSK-0144,PRJ-1019,Khalifa City Commercial Cluster 3,Utility Clashes,High,Low,2500000,Mitigating,Noura Al Ketbi,2025-12-05
+RSK-0145,PRJ-1019,Khalifa City Commercial Cluster 3,Subcontractor Default,High,Low,500000,Open,Rashid Al Dhaheri,2026-05-27
+RSK-0146,PRJ-1019,Khalifa City Commercial Cluster 3,Material Delay,High,Medium,50000,Mitigating,Khalid Al Hosani,2026-03-24
+RSK-0147,PRJ-1019,Khalifa City Commercial Cluster 3,Subcontractor Default,Critical,High,500000,Open,Aisha Al Shamsi,2026-03-01
+RSK-0148,PRJ-1019,Khalifa City Commercial Cluster 3,Subcontractor Default,Critical,Low,5000000,Mitigating,Hessa Al Qubaisi,2026-01-17
+RSK-0149,PRJ-1019,Khalifa City Commercial Cluster 3,Design Change,High,High,50000,Monitoring,Rashid Al Dhaheri,2026-02-22
+RSK-0150,PRJ-1019,Khalifa City Commercial Cluster 3,Contractor Performance,Medium,Low,5000000,Monitoring,Aisha Al Shamsi,2026-08-10
+RSK-0151,PRJ-1019,Khalifa City Commercial Cluster 3,Weather/Site Conditions,Medium,Low,5000000,Monitoring,Noura Al Ketbi,2026-02-23
+RSK-0152,PRJ-1019,Khalifa City Commercial Cluster 3,Design Change,Critical,High,1000000,Open,Aisha Al Shamsi,2026-02-19
+RSK-0153,PRJ-1020,Khalifa City Villas Extension,Material Delay,High,Medium,1000000,Open,Saeed Al Mansoori,2026-02-21
+RSK-0154,PRJ-1020,Khalifa City Villas Extension,Safety Incident,Critical,Medium,250000,Open,Fatima Al Nuaimi,2026-08-14
+RSK-0155,PRJ-1020,Khalifa City Villas Extension,Client Decision Delay,Medium,Medium,500000,Monitoring,Fatima Al Nuaimi,2026-04-15
+RSK-0156,PRJ-1020,Khalifa City Villas Extension,Utility Clashes,High,High,100000,Monitoring,Khalid Al Hosani,2025-12-19
+RSK-0157,PRJ-1021,Al Raha Beach Residential Extension,Contractor Performance,Medium,Low,5000000,Open,Aisha Al Shamsi,2026-05-31
+RSK-0158,PRJ-1021,Al Raha Beach Residential Extension,Safety Incident,Critical,Low,5000000,Mitigating,Noura Al Ketbi,2026-07-25
+RSK-0159,PRJ-1021,Al Raha Beach Residential Extension,Contractor Performance,High,Medium,2500000,Monitoring,Omar Al Suwaidi,2026-02-23
+RSK-0160,PRJ-1021,Al Raha Beach Residential Extension,Weather/Site Conditions,Medium,Low,5000000,Open,Mariam Al Falasi,2025-12-18
+RSK-0161,PRJ-1021,Al Raha Beach Residential Extension,Client Decision Delay,Low,Medium,1000000,Mitigating,Aisha Al Shamsi,2025-11-18
+RSK-0162,PRJ-1021,Al Raha Beach Residential Extension,Material Delay,Medium,High,50000,Mitigating,Rashid Al Dhaheri,2025-12-25
+RSK-0163,PRJ-1021,Al Raha Beach Residential Extension,Cost Escalation,Critical,Medium,50000,Open,Noura Al Ketbi,2026-07-21
+RSK-0164,PRJ-1021,Al Raha Beach Residential Extension,Safety Incident,Critical,Medium,1000000,Mitigating,Omar Al Suwaidi,2025-11-18
+RSK-0165,PRJ-1021,Al Raha Beach Residential Extension,Labor Shortage,Medium,Low,1000000,Open,Fatima Al Nuaimi,2025-12-05
+RSK-0166,PRJ-1021,Al Raha Beach Residential Extension,Contractor Performance,Medium,Medium,100000,Mitigating,Mariam Al Falasi,2026-03-03
+RSK-0167,PRJ-1022,Yas Island Public Cluster 3,Permitting & Approvals,High,Low,100000,Monitoring,Saeed Al Mansoori,2026-04-09
+RSK-0168,PRJ-1022,Yas Island Public Cluster 3,Permitting & Approvals,Medium,High,1000000,Monitoring,Fatima Al Nuaimi,2025-12-13
+RSK-0169,PRJ-1022,Yas Island Public Cluster 3,Cost Escalation,Medium,High,100000,Open,Hessa Al Qubaisi,2026-03-08
+RSK-0170,PRJ-1022,Yas Island Public Cluster 3,Material Delay,Low,Low,50000,Monitoring,Hessa Al Qubaisi,2026-04-14
+RSK-0171,PRJ-1022,Yas Island Public Cluster 3,Labor Shortage,Medium,High,1000000,Monitoring,Ahmed Al Mazrouei,2025-12-16
+RSK-0172,PRJ-1022,Yas Island Public Cluster 3,Permitting & Approvals,High,High,500000,Open,Rashid Al Dhaheri,2026-03-28
+RSK-0173,PRJ-1022,Yas Island Public Cluster 3,Subcontractor Default,Critical,Low,50000,Open,Aisha Al Shamsi,2026-01-27
+RSK-0174,PRJ-1022,Yas Island Public Cluster 3,Weather/Site Conditions,Critical,Medium,250000,Monitoring,Omar Al Suwaidi,2026-03-20
+RSK-0175,PRJ-1022,Yas Island Public Cluster 3,Scope Change,High,High,500000,Open,Noura Al Ketbi,2025-12-07
+RSK-0176,PRJ-1022,Yas Island Public Cluster 3,Weather/Site Conditions,Low,Medium,500000,Open,Khalid Al Hosani,2026-01-09
+RSK-0177,PRJ-1022,Yas Island Public Cluster 3,Material Delay,Medium,Low,50000,Mitigating,Rashid Al Dhaheri,2026-01-25
+RSK-0178,PRJ-1023,Saadiyat Island Residential Phase 2,Scope Change,Medium,Low,1000000,Monitoring,Noura Al Ketbi,2026-05-22
+RSK-0179,PRJ-1023,Saadiyat Island Residential Phase 2,Client Decision Delay,Medium,Medium,500000,Mitigating,Khalid Al Hosani,2025-12-16
+RSK-0180,PRJ-1023,Saadiyat Island Residential Phase 2,Labor Shortage,Low,Low,1000000,Mitigating,Mariam Al Falasi,2026-05-09
+RSK-0181,PRJ-1023,Saadiyat Island Residential Phase 2,Design Change,High,Low,250000,Mitigating,Hessa Al Qubaisi,2025-12-30
+RSK-0182,PRJ-1023,Saadiyat Island Residential Phase 2,Design Change,High,High,5000000,Open,Rashid Al Dhaheri,2026-06-20
+RSK-0183,PRJ-1023,Saadiyat Island Residential Phase 2,Scope Change,High,High,5000000,Mitigating,Noura Al Ketbi,2026-08-04
+RSK-0184,PRJ-1023,Saadiyat Island Residential Phase 2,Cost Escalation,Critical,Low,1000000,Open,Noura Al Ketbi,2025-11-17
+RSK-0185,PRJ-1023,Saadiyat Island Residential Phase 2,Labor Shortage,High,Low,1000000,Mitigating,Saeed Al Mansoori,2026-04-06
+RSK-0186,PRJ-1023,Saadiyat Island Residential Phase 2,Material Delay,Low,Low,500000,Mitigating,Noura Al Ketbi,2025-11-15
+RSK-0187,PRJ-1023,Saadiyat Island Residential Phase 2,Weather/Site Conditions,High,Low,1000000,Monitoring,Rashid Al Dhaheri,2025-12-14
+RSK-0188,PRJ-1023,Saadiyat Island Residential Phase 2,Design Change,Low,Low,100000,Monitoring,Noura Al Ketbi,2025-12-28
+RSK-0189,PRJ-1023,Saadiyat Island Residential Phase 2,Cost Escalation,Critical,Low,1000000,Open,Noura Al Ketbi,2026-03-17
+RSK-0190,PRJ-1023,Saadiyat Island Residential Phase 2,Cost Escalation,Medium,Medium,2500000,Mitigating,Hessa Al Qubaisi,2026-03-08
+RSK-0191,PRJ-1025,Al Raha Beach Hospitality Tower B,Cost Escalation,Critical,High,250000,Mitigating,Ahmed Al Mazrouei,2026-02-20
+RSK-0192,PRJ-1025,Al Raha Beach Hospitality Tower B,Material Delay,High,High,500000,Monitoring,Khalid Al Hosani,2026-08-14
+RSK-0193,PRJ-1025,Al Raha Beach Hospitality Tower B,Safety Incident,Critical,Medium,5000000,Monitoring,Hessa Al Qubaisi,2026-05-03
+RSK-0194,PRJ-1025,Al Raha Beach Hospitality Tower B,Utility Clashes,Low,High,100000,Monitoring,Hessa Al Qubaisi,2026-02-14
+RSK-0195,PRJ-1025,Al Raha Beach Hospitality Tower B,Weather/Site Conditions,Medium,High,50000,Monitoring,Fatima Al Nuaimi,2026-05-22
+RSK-0196,PRJ-1025,Al Raha Beach Hospitality Tower B,Scope Change,Low,Medium,500000,Open,Rashid Al Dhaheri,2026-05-15
+RSK-0197,PRJ-1025,Al Raha Beach Hospitality Tower B,Cost Escalation,Critical,High,500000,Monitoring,Ahmed Al Mazrouei,2026-06-18
+RSK-0198,PRJ-1025,Al Raha Beach Hospitality Tower B,Scope Change,Medium,High,2500000,Mitigating,Saeed Al Mansoori,2026-02-16
+RSK-0199,PRJ-1025,Al Raha Beach Hospitality Tower B,Utility Clashes,High,Low,1000000,Mitigating,Saeed Al Mansoori,2026-02-27
+RSK-0200,PRJ-1025,Al Raha Beach Hospitality Tower B,Utility Clashes,High,High,100000,Open,Khalid Al Hosani,2025-11-15
+RSK-0201,PRJ-1025,Al Raha Beach Hospitality Tower B,Permitting & Approvals,High,Low,5000000,Mitigating,Mariam Al Falasi,2025-12-20
+RSK-0202,PRJ-1025,Al Raha Beach Hospitality Tower B,Scope Change,High,Medium,1000000,Monitoring,Khalid Al Hosani,2026-04-02
+RSK-0203,PRJ-1025,Al Raha Beach Hospitality Tower B,Safety Incident,Low,High,1000000,Mitigating,Rashid Al Dhaheri,2026-03-04
+RSK-0204,PRJ-1027,Al Raha Beach Mixed-Use Redevelopment,Design Change,Medium,Medium,250000,Monitoring,Fatima Al Nuaimi,2026-03-03
+RSK-0205,PRJ-1027,Al Raha Beach Mixed-Use Redevelopment,Permitting & Approvals,Critical,High,2500000,Mitigating,Mariam Al Falasi,2026-05-16
+RSK-0206,PRJ-1027,Al Raha Beach Mixed-Use Redevelopment,Subcontractor Default,High,High,250000,Open,Fatima Al Nuaimi,2026-04-27
+RSK-0207,PRJ-1028,Al Shamkha Hospitality Phase 1,Safety Incident,Medium,Low,1000000,Open,Mariam Al Falasi,2026-08-01
+RSK-0208,PRJ-1028,Al Shamkha Hospitality Phase 1,Scope Change,Low,Medium,2500000,Mitigating,Fatima Al Nuaimi,2026-06-18
+RSK-0209,PRJ-1028,Al Shamkha Hospitality Phase 1,Contractor Performance,Low,High,500000,Monitoring,Aisha Al Shamsi,2025-12-26
+RSK-0210,PRJ-1028,Al Shamkha Hospitality Phase 1,Scope Change,Medium,Medium,250000,Monitoring,Ahmed Al Mazrouei,2026-07-13
